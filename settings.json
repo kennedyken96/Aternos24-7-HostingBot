@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
+    "ip": "collie.aternos.host:52294",
     "port": 52294,
     "version": "",
     "try-creative": false
